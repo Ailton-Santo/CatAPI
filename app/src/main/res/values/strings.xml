@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CatApi</string>
+    <string name="app_name">Cat API</string>
     <string name="radio_gif">GIF</string>
     <string name="radio_static">STATIC</string>
     <string name="radio_both">BOTH</string>
